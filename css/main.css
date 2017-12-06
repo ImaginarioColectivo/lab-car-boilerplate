@@ -1,1 +1,59 @@
-/* Los estilos de tu proyecto */
+
+.taxi {
+ background-image: url(../assets/images/taxi.jpg);
+ height: 100vh;
+ width: 100%;
+ background-position: bottom;
+ background-size: 100%;
+ background-repeat: no-repeat;
+}
+
+.jumbotron {
+	background-color: #F3C600;
+	border-radius: 0!important;
+	margin-top: 6em;
+}
+
+.primerasLineas {
+	margin-bottom: 1em;
+}
+
+.textUno, .textDos {
+	margin: 0;
+	font-size: 1.3em;
+	color: #ffffff;
+	font-weight: 700;
+}
+
+hr {
+	width: 3em;
+}
+
+
+.textTres {
+	margin: 0;
+	font-size: 1em;
+	color: #ffffff;
+	display: inline;
+	margin-right: 0.8em;
+}
+
+p {
+	color: #ffffff;
+}
+
+.option {
+	text-align: center;
+}
+
+.logoWhite {
+	width: 5em;
+}
+
+.btn-lg {
+	margin-top: 0.8em;
+	font-size: 0.5em;
+}
+
+
+
